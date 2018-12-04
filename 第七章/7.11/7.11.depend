@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543829475 source:c:\users\qu\desktop\7.11\main.cpp
+	<iostream>
+	<array>
+	<iomanip>
+
